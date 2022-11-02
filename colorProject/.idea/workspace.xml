@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b5b8b48-2ec2-4704-9a14-138c0607a87c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../08_Bootstrap/Basics/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_Bootstrap/Forms/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_Bootstrap/Grid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_Bootstrap/Icons/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_Bootstrap/Navbars/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_Bootstrap/Project/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_Bootstrap/Project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_Bootstrap/Utilities/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/01_Getting_Started/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/02_Colors/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/03_Typography/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/04_Utilities/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/05_Breakpoints/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/06_Navbars/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/07_Display/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/08_Flexbox/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/09_Navs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/10_Grid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/11_Pattern_Project/Final/imgs/header.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/11_Pattern_Project/Final/imgs/pattern1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/11_Pattern_Project/Final/imgs/pattern2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/11_Pattern_Project/Final/imgs/pattern3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/11_Pattern_Project/Final/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/11_Pattern_Project/Starter/imgs/header.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/11_Pattern_Project/Starter/imgs/pattern1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/11_Pattern_Project/Starter/imgs/pattern2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/11_Pattern_Project/Starter/imgs/pattern3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/11_Pattern_Project/Starter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/12_Grid_Flexbox/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/13_Museum_Of_Dog/Final/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/13_Museum_Of_Dog/Final/imgs/gumball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/13_Museum_Of_Dog/Final/imgs/hand2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/13_Museum_Of_Dog/Final/imgs/lolli_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/13_Museum_Of_Dog/Final/imgs/milk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/13_Museum_Of_Dog/Final/imgs/sprinkles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/13_Museum_Of_Dog/Final/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/13_Museum_Of_Dog/Starter/imgs/babyDog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/13_Museum_Of_Dog/Starter/imgs/bluePit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/13_Museum_Of_Dog/Starter/imgs/greyDog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/13_Museum_Of_Dog/Starter/imgs/greyPit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/13_Museum_Of_Dog/Starter/imgs/heart_paw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/13_Museum_Of_Dog/Starter/imgs/oldBaby.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/13_Museum_Of_Dog/Starter/imgs/pittie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/13_Museum_Of_Dog/Starter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Bootstrap4_Code/13_Museum_Of_Dog/Starter/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Javascript/guessingGame/guessingGame.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Javascript/guessingGame/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Javascript/toDoList/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webDeveloperBootcamp/Javascript/toDoList/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GxEbfm609O50AO5CyBM2IrdCaW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/bekjohansson/Library/Mobile Documents/com~apple~CloudDocs/Desktop/colt__steele__classes/colorProject",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b5b8b48-2ec2-4704-9a14-138c0607a87c" name="Changes" comment="" />
+      <created>1667321907769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667321907769</updated>
+      <workItem from="1667321909210" duration="8993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
