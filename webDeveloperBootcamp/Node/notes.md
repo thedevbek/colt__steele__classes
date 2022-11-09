@@ -15,9 +15,9 @@ NEED TO TAKE A NODE CLASS THIS IS A BRUSH WITH IT TO USE EXPRESS!!!!!
 
 You can require files from Node, but you must export them with exports.add = add; is an example
 
-index.js is the main file for the directory shelter it can be exported in another directory if you require it.
+main.js is the main file for the directory shelter it can be exported in another directory if you require it.
 
-You can have an index.js file in a directory and export them to the other files in the directory. Example is with shelter in files.
+You can have an main.js file in a directory and export them to the other files in the directory. Example is with shelter in files.
 ********************
 NPM stands for Node Package Manager. 
 
