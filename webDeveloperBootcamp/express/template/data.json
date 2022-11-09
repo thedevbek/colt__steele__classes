@@ -1,0 +1,60 @@
+{
+    "football": {
+        "name": "Football",
+        "subscribers": 800000,
+        "description": "The football subreddit. News, results and discussion about the game.",
+        "posts": [
+            {
+                "title": "If you miraculously had the money to be an NFL owner and based on your current football knowledge, how involved would you be with the team?",
+                "author": "Falcons"
+            },
+            {
+                "title": "Hire assistants who only take your calls and assure you they’re passing it along. I want to be heard without ruining the team.",
+                "author": "hasadiga42"
+            },
+            {
+                "title": "I wouldn't make decisions, but I'd annoy the fuck out of my front office by asking tons of questions.",
+                "author": "worldstoughestvegan"
+            }
+        ]
+    },
+    "dogs": {
+        "name": "Dogs",
+        "subscribers": 23956,
+        "description": "A place to post your photos, video and questions about dogs!",
+        "posts": [
+            {
+                "title": "Cats and Dogs living together! Complete CHAOS!!",
+                "author": "No_cricket808",
+                "img": "https://i.redd.it/etqv6981rvy91.jpg"
+            },
+            {
+                "title": "NFL draftee and US astronaut Leland Melvin snuck his two rescue dogs into his official photo.",
+                "author": "misterecho11",
+                "img": "https://i.redd.it/003lhmkchmy91.png"
+            },
+            {
+                "title": "When dogs meet!!",
+                "author": "pandalordart",
+                "img": "https://i.redd.it/25kturresuy91.jpg"
+            }
+        ]
+    },
+    "computers": {
+        "name": "Humor",
+        "subscribers": 44002,
+        "description": "Laughter is the best medicine.",
+        "posts": [
+            {
+                "title": "Back when 20 mb was a dream",
+                "author": "Kush1000",
+                "img": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/6f8736270fda4bc2b74311f0a2c8f2ba_1641215795~tplv-dmt-logom:tos-useast2a-v-0068/b076dd9fec6a4d588db83723a55f8ee3.image?x-expires=1667995200&x-signature=XjS9GdkSfDjCVStWjjKRVGSV2l4%3D"
+            },
+            {
+                "title": "Programming Meme.",
+                "author": "_sumit_rana",
+                "img": "https://www.reddit.com/r/TechBiason/comments/r8fr4q/programming_meme/"
+            }
+        ]
+    }
+}
