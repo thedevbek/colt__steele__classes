@@ -1,0 +1,64 @@
+{
+  "football": {
+    "name": "football",
+    "subscribers": 710000000,
+    "description": "NFL owner.",
+    "posts": [
+      {
+        "title": "The only input I'd give is to tell the scouts to take into account the player's names when drafting. Expecting a guy named Blaine Gabbert to be successful for example is just ridiculous but a corner named Quentin Jammer? You have to get him.",
+        "author": "Muffdiver69420lmao"
+
+      },
+      {
+        "title": " I dont want a QB named Cooper Rush, but if he has a brother that plays DE go get him.",
+        "author": "The1WhoKnocks,"
+
+      },
+      {
+        "title": "I think Robert Kraft gave Belichick that direction, which is how we got a punt returner named Gunner.",
+        "author": "say_wot_again"
+      }
+    ]
+  },
+  "knitting": {
+    "name": "knitting",
+    "subscribers": 424000,
+    "description": "After making a bunch of complex patterns, I really just wanted something timeless and easy to style.",
+    "posts": [
+      {
+        "title": "Lovely! I can definitely see that sweater being a go-to piece, it can go with a lot of outfits. Nice color too.",
+        "author": "c___Anemone",
+        "img": "https://preview.redd.it/a2m1hbgptlu91.jpg?width=2155&format=pjpg&auto=webp&s=b60d0c24f1cb994a1e20044533a2376015fe1a04"
+      },
+      {
+        "title": "Looks really nicely done! V professional finish.",
+        "author": "ProfWowtrousers"
+      },
+      {
+        "title": "That’s great, looks awesome. What’s the yarn?",
+        "author": "Common_Screen9450",
+        "img": "https://preview.redd.it/th4f8tyy79u91.jpg?width=2320&format=pjpg&auto=webp&s=eb14122f695bc367c8d67428c7451e7ccbf12250"
+      }
+    ]
+  },
+  "programmers": {
+    "name": "programmers",
+    "subscribers": 250000000,
+    "description": "The type system is a programmer's best friend",
+    "posts": [
+      {
+        "title": "Compile time errors are better than runtime errors.",
+        "author": "conipto"
+      },
+      {
+        "title": "Every time I see a compiler error in C++ I'm thankful I'm not doing it in Python. Refactoring in Python is just impossible.",
+        "author": "Sopel97",
+        "img": "https://i.redd.it/cn375qfbhvw91.jpg"
+      },
+      {
+        "title": "Not true. Jvm debugging is great. C++ great",
+        "author": "maybacksonbachs"
+      }
+    ]
+  }
+}
